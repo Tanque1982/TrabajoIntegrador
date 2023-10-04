@@ -3,14 +3,32 @@ h6
   color: white;
 }
 
-body{
+body
+{
   margin: 0;
   padding: 0;
-  min-width: 100vh;
   box-sizing: border-box;
 }
+
 .textCar{
- 
   text-align: right;
-  width: 53%;
+  width: 38%;
+  position: relative;
+  left: 70%;
+}
+
+textoPlaya
+{
+  font-size: 4%;
+}
+
+.col2
+{
+  background-color: gray;   
+  padding-top: 20px;
+}
+
+footer
+{
+  background-color: blue;
 }
